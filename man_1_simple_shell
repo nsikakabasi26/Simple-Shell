@@ -1,7 +1,7 @@
 .\" Manpage for Sodash
 .\" Created by Nsikakabasi
 
-.TH SODASH 1 "June 15 2022" "SODA SHELL - Simple Shell Man Page"
+.TH SODASH 1 "Decemeber 15 2023" "SODA SHELL - Simple Shell Man Page"
 
 .SH NAME
 sodash \- simple UNIX command interpreter
@@ -10,7 +10,7 @@ sodash \- simple UNIX command interpreter
 sodash [filename]
 
 .SH COPYRIGHT
-sodash is Copyright (C) 2022 by Chukwuemeka Samuel and Samuel Eze
+sodash is Copyright (C) 2023 by Okon Nsikakabasi
 
 .SH DESCRIPTION
 Sodash is a sh-compatible command language interpreter that executes commands read from the standard input or from a file.
